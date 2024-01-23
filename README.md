@@ -15,3 +15,6 @@
 </p>
 
 - 🚀Vary-plot:
+<p align="center">
+<img src="samples/vary-plot.png"  align=center>
+</p>
